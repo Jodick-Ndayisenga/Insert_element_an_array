@@ -1,4 +1,4 @@
-#insert a value into an array
+## insert a value into an array
 
 The code provided allows the user to insert values into an array and then insert a new value at a specified position within the array. As a general explanation of what the code does:
 
